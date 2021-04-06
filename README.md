@@ -1,1 +1,1 @@
-İştek Ve Öneri Botu
+İstek Ve Öneri veya şikayet Botu
